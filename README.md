@@ -1,6 +1,6 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.png)
 
-# ADF Ingestion Framework Solution Accelerator
+# ADF Synapse Ingestion Framework Accelerator
 
 ADF ingestion framework
 
