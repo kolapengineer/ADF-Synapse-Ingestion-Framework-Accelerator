@@ -4,10 +4,10 @@
 
 ![image](https://user-images.githubusercontent.com/62758564/138203452-9588d01a-0ae3-4ee3-b754-ab84a9c6d9b5.png)
 
-1.	**Insert scripts from excel format.xlsx ** --- Provides easy way to update the control table
-2.	**Meta data and Stored procedure for the framework.docx ** --- This needs to be run in your target database
-3.	**pl_end_to_end_history.zip ** --- Pipelines for end to end history loads
-4.	**pl_end_to_end_incremental.zip ** --– Pipelines for end to end incremental loads
+1.	Insert scripts from excel format.xlsx --- Provides easy way to update the control table
+2.	Meta data and Stored procedure for the framework.docx --- This needs to be run in your target database
+3.	pl_end_to_end_history.zi --- Pipelines for end to end history loads
+4.	pl_end_to_end_incremental.zip --– Pipelines for end to end incremental loads
 
 ![image](https://user-images.githubusercontent.com/62758564/159766879-59454abe-22ca-4d76-8159-ded5c130f51a.png)
 
