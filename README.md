@@ -2,8 +2,6 @@
 
 # ADF Synapse Ingestion Framework Accelerator
 
-ADF ingestion framework
-
 ![image](https://user-images.githubusercontent.com/62758564/138203452-9588d01a-0ae3-4ee3-b754-ab84a9c6d9b5.png)
 
 1.	**Insert scripts from excel format.xlsx ** --- Provides easy way to update the control table
