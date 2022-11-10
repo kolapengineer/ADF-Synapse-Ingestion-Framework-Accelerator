@@ -4,10 +4,10 @@
 
 ![image](https://user-images.githubusercontent.com/62758564/138203452-9588d01a-0ae3-4ee3-b754-ab84a9c6d9b5.png)
 
-1.	Insert scripts from excel format.xlsx --- Provides easy way to update the control table
-2.	Meta data and Stored procedure for the framework.docx --- This needs to be run in your target database
-3.	pl_end_to_end_history.zi --- Pipelines for end to end history loads
-4.	pl_end_to_end_incremental.zip --– Pipelines for end to end incremental loads
+1.	Insert scripts from excel format.xlsx --- provides easy way to update the control table
+2.	Meta data and Stored procedure for the framework.docx --- this needs to be run in your target database
+3.	pl_end_to_end_history.zi --- pipelines for end to end history loads
+4.	pl_end_to_end_incremental.zip --– pipelines for end to end incremental loads
 
 ![image](https://user-images.githubusercontent.com/62758564/159766879-59454abe-22ca-4d76-8159-ded5c130f51a.png)
 
@@ -25,7 +25,6 @@
 ![image](https://user-images.githubusercontent.com/62758564/138146802-b32721fe-8124-4aa8-9965-254c3d3e5daa.png)
 
 ## License
-
 Copyright (c) Microsoft Corporation
 
 All rights reserved.
@@ -37,6 +36,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
 
 ## Contributing
 
@@ -54,8 +54,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 ## Trademarks
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow 
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
